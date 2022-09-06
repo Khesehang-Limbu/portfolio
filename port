@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta char-set="UTF-8"/>
+    <title>Home | Amar Portfolio</title>
+</head>
+<body>
+        
+       <table border="1" cellspacing="0" cellpadding="10" width="100%">
+        <thead>
+            <tr>
+                <td>
+                    <header>
+                        <nav>
+                            <ul>
+                                <li><a href="#" title="Home">Home</a></li>
+                                <li><a href="#" title="About">about</a></li>
+                                <li><a href="#" title="Contact">Contact</a></li>
+                                <li><a href="#" title="services">Services</a></li>
+                                <li><a href="#" title="Blog">Blog</a></li>
+                                <li><a href="#" title="Pricing">Pricing</a></li>
+                                <li><a href="#" title="Pages">Pages</a></li>
+                            </ul>
+                        </nav>
+                        
+                    </header>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <div>
+                        <img src="./alien.png" alt="Alien bro">
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div>
+                        <p>Hello! my name is Amar shrestha. I'm from Kathamandu. Currently I'm doing bachelor in computer application. <br>
+                        My skills are:</p>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <nav>
+                        <ul>
+                            <li><a href="#" title="C programming">C programming ⭐⭐⭐</a></li>
+                            <li><a href="#" title="Python">Python ⭐⭐</a></li>
+                            <li><a href="#" title="Java">Java </a></li>
+                        </ul>
+                    </nav>
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <div>
+                        <form method="POST" action="#" name="Contact_Us">
+                            <label for="">full name: <input type="text" name="fname" value="" placeholder="ie: Amar Shrestha"></label> <br>
+                            <label for="">email: <input type="text" name="email" value="" placeholder="ie: @gmail.com"></label><br>
+                            <label for=""> <textarea type="submit" name="send" value="Send Message" placeholder="write your desire"></textarea></label><br>
+                            <button>submit</button>
+                    
+                    
+                        </form>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+       </table>
+       
+
+</body>
+
+</html>
